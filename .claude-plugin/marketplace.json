@@ -1,0 +1,81 @@
+{
+  "name": "synapz",
+  "owner": {
+    "name": "Synapz",
+    "url": "https://github.com/synapz-org"
+  },
+  "plugins": [
+    {
+      "name": "typefully",
+      "description": "Manage social media through Typefully API v2 - drafts, scheduling, cross-posting across X/LinkedIn/Threads/Bluesky/Mastodon",
+      "version": "2.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/typefully-claude-skill"
+      }
+    },
+    {
+      "name": "basilica-cli",
+      "description": "Rent GPUs for ML training on Basilica decentralized compute",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/basilica-cli-claude-skill"
+      }
+    },
+    {
+      "name": "btcli",
+      "description": "Bittensor CLI - wallet management, subnet registration, staking, and network operations",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/btcli-skill"
+      }
+    },
+    {
+      "name": "hippius",
+      "description": "Hippius decentralized storage on Bittensor Subnet 75 - IPFS/S3 operations",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/hippius-claude-skill"
+      }
+    },
+    {
+      "name": "metanova-miner",
+      "description": "Mining on MetaNova's NOVA (Bittensor SN68) - decentralized drug discovery",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/metanova-nova-miner-skill"
+      }
+    },
+    {
+      "name": "grail-miner",
+      "description": "Grail miner setup and optimization on Bittensor Subnet 81 - GRAIL protocol, R2 storage, performance tuning",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/grail-miner-claude-skill"
+      }
+    },
+    {
+      "name": "basilica-miner",
+      "description": "Basilica GPU miner setup and management on Bittensor Subnet 39",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/basilica-miner-claude-skill"
+      }
+    },
+    {
+      "name": "templar-miner",
+      "description": "Templar miner setup and optimization on Bittensor Subnet 3 - decentralized training",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/templar-miner-claude-skill"
+      }
+    }
+  ]
+}
