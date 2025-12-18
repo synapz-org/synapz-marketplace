@@ -20,10 +20,11 @@ Then install any skill:
 
 ## Available Skills
 
-### Social Media & Automation
+### Productivity & Automation
 
 | Skill | Description |
 |-------|-------------|
+| **linear-workflow-manager** | Automate daily planning, issue triage, and status reporting with Linear via GraphQL API |
 | **typefully** | Manage social media through Typefully API v2 - drafts, scheduling, cross-posting across X/LinkedIn/Threads/Bluesky/Mastodon |
 
 ### Bittensor CLI & Infrastructure

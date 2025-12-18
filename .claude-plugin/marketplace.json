@@ -6,6 +6,15 @@
   },
   "plugins": [
     {
+      "name": "linear-workflow-manager",
+      "description": "Automate daily planning, issue triage, and status reporting with Linear via GraphQL API",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "synapz-org/linear-workflow-manager"
+      }
+    },
+    {
       "name": "typefully",
       "description": "Manage social media through Typefully API v2 - drafts, scheduling, cross-posting across X/LinkedIn/Threads/Bluesky/Mastodon",
       "version": "2.0.0",
