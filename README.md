@@ -27,6 +27,12 @@ Then install any skill:
 | **linear-workflow-manager** | Automate daily planning, issue triage, and status reporting with Linear via GraphQL API |
 | **typefully** | Manage social media through Typefully API v2 - drafts, scheduling, cross-posting across X/LinkedIn/Threads/Bluesky/Mastodon |
 
+### Bittensor Knowledge & Development
+
+| Skill | Description |
+|-------|-------------|
+| **[bittensor-expert](https://github.com/synapz-org/bittensor-expert-skill)** | Comprehensive Bittensor knowledge - concepts, whitepaper, btcli, subnet development, miner/validator creation |
+
 ### Bittensor CLI & Infrastructure
 
 | Skill | Description |
@@ -43,6 +49,12 @@ Then install any skill:
 | **basilica-miner** | SN39 | Basilica GPU miner setup and management |
 | **grail-miner** | SN81 | Grail miner setup - GRAIL protocol, R2 storage, performance tuning |
 | **metanova-miner** | SN68 | MetaNova NOVA miner - decentralized drug discovery |
+
+### Robotics & AI
+
+| Skill | Description |
+|-------|-------------|
+| **[reachy-mini-dev](https://github.com/synapz-org/reachy-mini-dev-skill)** | Comprehensive Reachy Mini robotics development - robot control, LeRobot ML, OM1 FABRIC network, ElevenLabs voice, project templates |
 
 ## Links
 
